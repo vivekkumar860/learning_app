@@ -75,7 +75,11 @@ class MockSupabaseClient:
 class MockTable:
     def __init__(self, name: str):
         self.name = name
-        self._data = globals().get(f"{name}_db", {})
+        # For users table, we need to access the global users_db differently
+        if name == "users":
+            self._data = users_db
+        else:
+            self._data = globals().get(f"{name}_db", {})
 
     def select(self, *columns):
         self.columns = columns
@@ -113,7 +117,11 @@ class MockTable:
                     item_id = item.get('id', secrets.token_hex(16))
                     item['id'] = item_id
                     item['created_at'] = datetime.now().isoformat()
-                    self._data[item_id] = item
+                    # For users table, store by email
+                    if self.name == 'users':
+                        self._data[item['email']] = item
+                    else:
+                        self._data[item_id] = item
                     inserted.append(item)
                 return Result(inserted)
             else:
@@ -123,7 +131,11 @@ class MockTable:
                 # Add is_active field for users table
                 if self.name == 'users' and 'is_active' not in self.insert_data:
                     self.insert_data['is_active'] = True
-                self._data[item_id] = self.insert_data
+                # For users table, store by email
+                if self.name == 'users':
+                    self._data[self.insert_data['email']] = self.insert_data
+                else:
+                    self._data[item_id] = self.insert_data
                 return Result([self.insert_data])
 
         if hasattr(self, 'update_data'):

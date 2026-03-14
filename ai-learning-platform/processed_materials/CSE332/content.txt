@@ -1,0 +1,1115 @@
+CSE332
+
+Industry Ethics and Legal Issues
+
+Complete Study Material — All 6 Units
+
+Course Outcomes Covered: CO1 through CO6
+
+Course Outcomes
+
+UNIT I — Ethics
+
+This unit establishes the philosophical and practical foundation of ethics, covering how ethical principles apply in personal conduct, business environments, and the IT profession.
+
+1.1 Definition of Ethics
+
+Ethics is the branch of philosophy that deals with questions about right and wrong, good and bad, virtue and vice, and what constitutes proper human conduct. It provides a framework for evaluating actions, decisions, and character.
+
+Major Ethical Theories
+
+1.2 Importance of Integrity
+
+Integrity is the quality of being honest and having strong moral principles. It is the foundation upon which trust, reputation, and professional relationships are built.
+
+Components of Professional Integrity
+
+Honesty: Truthful communication in all professional dealings
+
+Accountability: Taking ownership of one's actions and their consequences
+
+Transparency: Openness about processes, decisions, and conflicts of interest
+
+Confidentiality: Respecting sensitive information entrusted by employers and clients
+
+Fairness: Treating all stakeholders equitably
+
+Consistency: Behaving the same way in private as in public
+
+1.3 Ethics in the Business World
+
+Business ethics refers to the application of ethical values and principles to business activities — covering how companies treat employees, customers, competitors, the community, and the environment.
+
+Key Areas of Business Ethics
+
+Landmark Ethical Violations in Business
+
+Enron (2001): Accounting fraud, off-balance-sheet entities — $74B in losses, led to Sarbanes-Oxley Act
+
+WorldCom (2002): $11B accounting fraud — largest bankruptcy in US history at that time
+
+Volkswagen Emissions Scandal (2015): Defeat device software manipulated emission tests
+
+Facebook-Cambridge Analytica (2018): 87M user profiles harvested without consent
+
+1.4 Improving Corporate Ethics
+
+Organizations can actively improve their ethical culture through structural, procedural, and leadership interventions.
+
+Establish a Code of Ethics/Conduct: A written document defining acceptable behavior, values, and procedures
+
+Ethics Training Programs: Regular, scenario-based training for all employees
+
+Ethics Hotlines and Whistleblower Protections: Anonymous reporting channels
+
+Chief Ethics Officer (CEO/CECO): Dedicated leadership role for ethics and compliance
+
+Ethics Audits: Periodic reviews of ethical compliance and culture
+
+Tone at the Top: Senior leaders visibly model ethical behavior
+
+Ethics Committees: Cross-functional bodies that handle ethical dilemmas and policy
+
+Performance Reviews: Include ethical conduct as a measurable criterion
+
+Consequence Management: Consistent enforcement of ethical standards, regardless of seniority
+
+1.5 Creating an Ethical Work Environment
+
+An ethical work environment is one where employees feel safe to act ethically, where ethical behavior is recognized and rewarded, and where unethical behavior is consistently addressed.
+
+Elements of an Ethical Work Environment
+
+1.6 Ethical Decision Making
+
+Ethical decision making is the process of evaluating and choosing among alternatives in a manner consistent with ethical principles. It is particularly challenging when interests conflict or when rules don't provide clear guidance.
+
+The Ethical Decision-Making Framework (7-Step Model)
+
+Recognize the ethical issue: Is there a conflict of values, rights, or duties?
+
+Gather the facts: What do you know? What do you need to know?
+
+Identify stakeholders: Who is affected by this decision and in what ways?
+
+Consider ethical perspectives: Apply consequentialist, deontological, virtue ethics lenses
+
+Identify options: Generate a range of possible actions
+
+Make a decision: Choose the option that best withstands ethical scrutiny
+
+Reflect and evaluate: After acting, assess the outcome and lessons learned
+
+Common Decision-Making Tests
+
+The Newspaper Test: Would you be comfortable if this decision appeared on the front page?
+
+The Golden Rule: Treat others as you would wish to be treated
+
+The Stakeholder Test: Have all affected parties' interests been considered?
+
+The Long-Term Test: Is this decision sustainable ethically over time?
+
+1.7 Ethics in Information Technology
+
+IT ethics addresses the moral issues that arise from the development and use of information technology. As technology becomes more pervasive, ethical considerations become more complex and impactful.
+
+Core Areas of IT Ethics
+
+The PAPA Framework (Richard Mason, 1986)
+
+Privacy: What information must a person reveal? What can they keep private?
+
+Accuracy: Who is responsible for the authenticity and fidelity of information?
+
+Property: Who owns information? What are the terms of exchange?
+
+Accessibility: What information does a person have a right to obtain?
+
+1.8 Ethical Behavior of IT Professionals
+
+IT professionals are in a position of significant trust — they have access to systems, data, and infrastructure that affect millions of people. Professional codes of ethics guide their conduct.
+
+ACM Code of Ethics — Core Principles
+
+Contribute to society and to human well-being
+
+Avoid harm — consider consequences of actions on users and third parties
+
+Be honest and trustworthy
+
+Be fair and take action not to discriminate
+
+Respect the work required to produce new ideas, inventions, creative works, and computing artifacts
+
+Respect privacy
+
+Honor confidentiality
+
+IEEE Code of Ethics — Key Commitments
+
+Hold paramount the safety, health, and welfare of the public
+
+Disclose factors that might endanger public or environment
+
+Avoid real or perceived conflicts of interest
+
+Reject bribery in all forms
+
+Seek, accept, and offer honest criticism; acknowledge errors
+
+Treat fairly all persons regardless of race, religion, gender, disability, age, or national origin
+
+1.9 Common Ethical Issues for IT Users
+
+Ordinary users of information technology face ethical dilemmas related to their day-to-day activities online and in professional settings.
+
+1.10 Supporting Ethical Practices of IT Users
+
+Organizations, educators, and policymakers can take steps to promote ethical behavior among IT users.
+
+Develop and publish clear Acceptable Use Policies (AUPs) for all users
+
+Provide regular ethics training covering real-world scenarios
+
+Implement technical controls (DLP, access controls) as a complementary measure
+
+Foster an open culture where users feel comfortable reporting ethical concerns
+
+Ensure consequences for ethical violations are known and applied consistently
+
+Recognize and reward ethical behavior publicly
+
+Integrate ethics into computer science education from early stages
+
+1.11 Women Empowerment in Technology
+
+Women empowerment in the context of IT and professional practice involves ensuring equal opportunity, representation, and recognition for women in technology and business sectors.
+
+Current State
+
+Women represent approximately 26% of the global tech workforce (2024 estimates)
+
+Women hold only ~5% of Fortune 500 CEO positions
+
+Gender pay gap in tech: women earn ~84 cents per dollar earned by men in comparable roles
+
+India-specific: Women constitute ~34% of IT workforce — higher than global average
+
+Legal Framework Supporting Women Empowerment in India
+
+The Sexual Harassment of Women at Workplace Act, 2013 (POSH Act)
+
+Maternity Benefit (Amendment) Act, 2017 — 26 weeks paid maternity leave
+
+Equal Remuneration Act, 1976 — equal pay for equal work
+
+National Policy for the Empowerment of Women, 2001
+
+Industry Initiatives
+
+Women in Tech programs by companies like Infosys, TCS, Wipro, Google, Microsoft
+
+NASSCOM diversity and inclusion programs
+
+WiStem2D, Girls Who Code, AnitaB.org
+
+Mentorship programs pairing senior women leaders with emerging talent
+
+1.12 Ethical Aspects of Engineering Practices
+
+Engineers have a special ethical responsibility because their work directly affects public safety, welfare, and the environment. The engineer's duty extends beyond the client to society at large.
+
+Core Engineering Ethics Principles
+
+Famous Engineering Ethics Cases
+
+Space Shuttle Challenger (1986): Engineers at Morton Thiokol raised O-ring concerns; management overrode — 7 astronauts died
+
+Ford Pinto (1970s): Cost-benefit analysis placed monetary value on human lives to avoid a $13 fix
+
+Therac-25 (1985-1987): Software race condition in radiation therapy device killed 6 patients due to inadequate testing
+
+Bhopal Gas Tragedy (1984): Inadequate safety maintenance caused gas leak killing over 3,700 people immediately
+
+UNIT II — Intellectual Properties (IPs)
+
+Intellectual Property (IP) law protects the creations of the human mind, enabling creators and innovators to benefit from their work while contributing to the advancement of society.
+
+2.1 Concept of Intellectual Property
+
+Intellectual Property refers to creations of the intellect — inventions, literary and artistic works, symbols, names, images, and designs used in commerce. IP rights are legal rights that give creators control over the use of their creations.
+
+Categories of Intellectual Property
+
+International IP Governance
+
+WIPO (World Intellectual Property Organization): UN agency administering international IP treaties
+
+TRIPS Agreement: WTO agreement setting minimum IP standards for member countries
+
+Paris Convention: International protection for industrial property (1883)
+
+Berne Convention: International copyright protection (1886)
+
+In India: Administered by CGPDTM (Controller General of Patents, Designs and Trade Marks)
+
+2.2 Copyright
+
+Copyright is an exclusive legal right granted to the creator of an original work to reproduce, distribute, perform, display, or license the work. Copyright protects the expression of ideas, not ideas themselves.
+
+What Copyright Protects
+
+Literary works: novels, poems, articles, computer programs, databases
+
+Artistic works: paintings, photographs, sculptures, architectural works
+
+Musical works: compositions and their lyrics
+
+Dramatic works: plays, screenplays
+
+Cinematographic works: movies, documentaries
+
+Sound recordings and broadcasts
+
+Key Copyright Concepts
+
+Original Work: Must originate from the author — not copied from another source. Low threshold of creativity required.
+
+Fixed in Tangible Form: Must be recorded in some medium — written, recorded, stored digitally
+
+No Registration Required: Copyright exists automatically upon creation and fixation
+
+Duration: Generally: life of the author + 60 years in India (70 years in US/EU)
+
+Economic Rights: Right to reproduce, distribute, adapt, translate, publicly perform
+
+Moral Rights: Right of attribution and integrity — cannot be transferred
+
+Copyright in Software
+
+Source code and object code are protected as literary works under the Copyright Act, 1957 (India)
+
+UI elements, icons, and screen layouts may also be protected
+
+APIs: Mixed protection — Oracle v. Google (2021) held API declarations copyrightable but Google's use was fair use
+
+Open source licenses (GPL, MIT, Apache) allow use under specified conditions
+
+Fair Use / Fair Dealing
+
+Fair dealing (India) / Fair use (USA) allows limited use of copyrighted material without permission for:
+
+Research and private study
+
+Criticism, review, and news reporting
+
+Education and teaching
+
+Parody and satire
+
+2.3 Trademarks and Different Kinds of Marks
+
+A trademark is a sign capable of distinguishing goods or services of one enterprise from those of other enterprises. Trademarks protect brand identity and help consumers identify products.
+
+Types of Marks
+
+Trademark Registration in India
+
+Governed by the Trade Marks Act, 1999 and the Trade Marks Rules, 2017
+
+Administered by the Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)
+
+Duration: 10 years from filing date, renewable indefinitely for 10-year periods
+
+TM symbol (™): Unregistered claim of trademark rights
+
+® symbol: Only used after registration is granted
+
+Classes: 45 classes of goods and services under the Nice Classification
+
+2.4 Patents
+
+A patent is an exclusive right granted for an invention — a product or process that provides a new way of doing something, or offers a new technical solution to a problem. In exchange for this right, the inventor publicly discloses the invention.
+
+Patentability Criteria
+
+Novelty: The invention must be new — not previously disclosed anywhere in the world
+
+Inventive Step (Non-obviousness): Must not be obvious to a person skilled in the relevant field
+
+Industrial Applicability (Utility): Must be capable of being made or used in industry
+
+Patentable Subject Matter: Not excluded (laws of nature, abstract ideas, natural phenomena)
+
+Types of Patents
+
+Utility Patents: Most common — inventions of processes, machines, manufactures, compositions
+
+Design Patents: Protect the ornamental/aesthetic design of a functional item
+
+Plant Patents: New and distinct asexually reproduced plant varieties
+
+Provisional Patents: Temporary filing establishing priority date; 12 months to file complete specification
+
+Patent System in India
+
+Governed by the Patents Act, 1970 (amended significantly in 2005 for TRIPS compliance)
+
+Duration: 20 years from date of filing
+
+Indian Patent Office: Offices in Delhi, Mumbai, Chennai, Kolkata
+
+Section 3(d): Prevents evergreening — bars patents on known substances unless significantly enhanced efficacy (Novartis v. Union of India, 2013)
+
+Compulsory Licensing: Government can grant license to third party in national emergencies (Nexavar case, 2012)
+
+Software Patents — India vs USA
+
+2.5 Importance of Patent Information in Business Development
+
+Patent databases are powerful strategic tools for businesses, providing insights into technological trends, competitor activities, and opportunities for innovation.
+
+Key Patent Databases
+
+Espacenet (EPO): Free European Patent Office database — 140 million+ documents
+
+Google Patents: Free, comprehensive global patent search
+
+InPASS (India): Indian Patent Advanced Search System — inpass.ipindia.gov.in
+
+USPTO Patent Full-Text Database: US patents
+
+PATENTSCOPE (WIPO): International PCT applications
+
+2.6 Identifying Social and Engineering Issues in IP
+
+Intellectual property systems must balance incentivizing innovation with ensuring public access to knowledge, particularly in areas of social importance.
+
+Key Social Issues
+
+Access to Medicine: High pharmaceutical patent prices block access in developing countries (ARVs, cancer drugs)
+
+Traditional Knowledge: Indigenous communities' traditional knowledge often patented by corporations without benefit-sharing (biopiracy — Neem, Turmeric cases)
+
+Gene Patents: Patenting of human genes restricts research (BRCA1/2 gene patents — Myriad Genetics case)
+
+Software Patents: Broad software patents stifle open-source development and small developers
+
+Copyright Term Extension: Perpetual extensions (Disney lobbying) restrict public domain access
+
+Engineering Issues in IP
+
+Reverse Engineering: Permissibility of reverse engineering software for interoperability
+
+Ownership Disputes: Who owns IP created by employees — inventor or employer?
+
+Joint Inventorship: Complex issues when multiple parties contribute to an invention
+
+Prior Art in Fast-Moving Fields: Rapid technological change makes patent prior art searches challenging
+
+2.7 Registering IP Claims in India
+
+UNIT III — Government Funding and Startup Schemes
+
+This unit explores the startup ecosystem — from definition and legal status to government schemes, funding sources, and export promotion mechanisms.
+
+3.1 What are Startups?
+
+A startup is a young company founded to develop a unique product or service, bring it to market, and scale it rapidly. The startup model is characterized by high uncertainty, high risk, and potential for high growth.
+
+Government of India's Definition of Startup
+
+As per DPIIT (Dept. for Promotion of Industry and Internal Trade) Notification, January 2021, an entity is a startup if:
+
+Incorporated as a Private Limited Company, LLP, or Partnership Firm
+
+Not more than 10 years old from date of incorporation
+
+Annual turnover has not exceeded ₹100 crore in any financial year
+
+Working towards innovation, development, or improvement of products/processes/services
+
+Has not been formed by splitting up or reconstructing an existing business
+
+Startup Lifecycle
+
+3.2 Startup India — Benefits and Resources
+
+Startup India is a flagship initiative of the Government of India launched on January 16, 2016, by Prime Minister Narendra Modi. Its aim is to build a strong eco-system that is conducive to growth of Startup businesses.
+
+Recognition Process
+
+Visit startupindia.gov.in
+
+Register as a startup and fill in details
+
+Upload Certificate of Incorporation/Registration
+
+Provide a brief description of the innovative nature of the business
+
+Receive DPIIT recognition certificate (used to claim all benefits)
+
+3.3 Bank Loans for Startup Businesses
+
+While equity funding is the most visible funding mechanism, debt financing (bank loans) is equally important, especially for startups in sectors like manufacturing, retail, and services.
+
+Key Bank Loan Schemes for Startups in India
+
+Challenges in Getting Bank Loans for Startups
+
+No credit history — banks rely on past financial records
+
+Lack of collateral — startups typically asset-light
+
+Difficulty demonstrating repayment capacity (no revenue track record)
+
+Risk aversion of public sector banks toward unproven business models
+
+3.4 NASSCOM 10,000 Startups Initiative
+
+10,000 Startups is a flagship initiative by NASSCOM (National Association of Software and Service Companies) aimed at nurturing, incubating, and scaling 10,000 technology startups in India.
+
+Key Components
+
+NEN (NASSCOM Entrepreneurship Network): Community of tech entrepreneurs and startups
+
+Warehouse Incubators: Physical and virtual incubation spaces across India
+
+Startup Warehouse: Dedicated co-working spaces in multiple cities
+
+Acceleration Programs: Mentorship, investor connects, corporate partnerships
+
+Accelerator Network: Partnership with 40+ accelerators across India
+
+WE Hub: Dedicated platform for women entrepreneurs (in partnership with Telangana Government)
+
+Ecosystem Components: Mentors, investors, enablers, co-working spaces, and hiring support
+
+3.5 Export Promotion Schemes
+
+Software Technology Parks (STPs)
+
+Software Technology Parks of India (STPI) is an autonomous body under the Ministry of Electronics & Information Technology (MeitY), set up in 1991 to promote the export of software from India.
+
+Special Economic Zones (SEZ)
+
+An SEZ is a specially demarcated geographic area where business and trade laws differ from the rest of the country, creating a more liberal and business-friendly environment, primarily to attract FDI and promote exports.
+
+Difference: STPI vs SEZ
+
+3.6 Laws for Startups in India
+
+Companies Act, 2013: Governs private limited companies — most common startup structure
+
+Limited Liability Partnership Act, 2008: Alternative structure with limited liability
+
+Income Tax Act, 1961: Tax exemptions under Sections 80-IAC, 54EE, 54GB for startups
+
+Insolvency and Bankruptcy Code, 2016: 90-day fast-track winding up for recognized startups
+
+Foreign Exchange Management Act (FEMA), 1999: Governs FDI and ODI by startups
+
+Intellectual Property Laws: Copyright, Patent, Trademark Acts for protecting startup IP
+
+Information Technology Act, 2000: Governs e-commerce, digital signatures, cyber crimes
+
+Startup India Recognition: DPIIT recognition unlocks all government scheme benefits
+
+3.7 US Startup Funding Schemes
+
+SBIR — Small Business Innovation Research Program
+
+Mandatory set-aside program — federal agencies allocate a percentage of R&D budget to small businesses
+
+Phase I: Feasibility research — up to $150,000–$250,000 for 6 months
+
+Phase II: Full R&D — up to $750,000–$1.5M for 2 years
+
+Phase III: Commercialization — no SBIR funding but supported through contracts
+
+Participating agencies: NIH, NSF, DOD, NASA, DOE and others
+
+STTR — Small Business Technology Transfer Program
+
+Similar to SBIR but requires formal cooperative research with a university or federally funded R&D center
+
+Minimum 30% of work must be performed by the small business
+
+Minimum 30% of work must be performed by the research institution
+
+Phase I: Up to $150,000 — Phase II: Up to $1M
+
+NSF Grants
+
+National Science Foundation provides competitive grants for fundamental research
+
+I-Corps (Innovation Corps): Lean startup methodology training + $50K grant for commercialization of NSF-funded research
+
+SBIR/STTR grants administered through NSF for technology-focused startups
+
+UNIT IV — Startup in IT
+
+This unit covers the systematic process of planning and launching a startup in the IT sector, from executive summary through financial planning, with examples of successful IT startups.
+
+4.1 Business Plan Structure for an IT Startup
+
+A business plan is a formal written document describing a business, its objectives, strategies, market, and financial forecasts. It is essential for raising funding, guiding operations, and aligning the team.
+
+1. Executive Summary
+
+The most important section — it is read first and must stand alone. Typically 1–2 pages.
+
+Problem being solved and target market
+
+Solution (product/service) and unique value proposition
+
+Business model — how you make money
+
+Traction: current customers, revenue, partnerships, key milestones achieved
+
+Team: founders' backgrounds and why this team can execute
+
+Funding ask: amount sought, use of funds, projected ROI for investor
+
+2. General Company Description
+
+Legal name, structure (Pvt Ltd, LLP), incorporation date and state
+
+Mission statement: 1–2 sentences on purpose and values
+
+Vision statement: Long-term aspiration for the company
+
+Business type: Product/Service/Platform/SaaS/B2B/B2C
+
+Stage: Idea/Prototype/MVP/Revenue Generating/Scaling
+
+Geographic focus: Local, national, or global
+
+3. Products and Services
+
+Detailed description of each product/service offering
+
+Technology stack and unique technical features
+
+Current development stage and roadmap
+
+IP owned: patents pending, copyrights, trademarks
+
+Competitive advantages: Why is yours better/different?
+
+Pricing model: SaaS subscription, one-time license, per-use, freemium
+
+4. Marketing Plan
+
+Market segmentation: Define target customer segments precisely
+
+Total Addressable Market (TAM), Serviceable Addressable Market (SAM), Serviceable Obtainable Market (SOM)
+
+Customer personas: Detailed profiles of ideal customers
+
+Competitive analysis: Strengths/weaknesses vs. key competitors
+
+Go-to-market strategy: Channels and tactics for customer acquisition
+
+Digital marketing: SEO, content marketing, paid ads, social media strategy
+
+Sales strategy: Inside sales, field sales, channel partners, self-service
+
+Pricing strategy: Cost-based, value-based, competitive, penetration
+
+Customer Acquisition Cost (CAC) and Lifetime Value (LTV) projections
+
+5. Operational Plan
+
+Daily and monthly operations: What activities keep the business running?
+
+Technology infrastructure: Cloud services, development tools, security
+
+Supply chain / vendor management (if applicable)
+
+Key processes: Development lifecycle, QA, deployment, customer support
+
+Key metrics tracked: NPS, uptime, ticket resolution time, deployment frequency
+
+Compliance: Data protection (GDPR, IT Act), security certifications (ISO 27001)
+
+6. Management and Organization
+
+Organizational structure: Flat, hierarchical, or matrix
+
+Founders and key team members — bios with relevant experience
+
+Board of Directors / Advisors: Names, backgrounds, contribution
+
+Hiring plan: Roles to be filled, timeline, compensation structure
+
+ESOP (Employee Stock Option Pool): Typically 10–15% reserved for employee options
+
+7. Personal Financial Statement
+
+Personal assets and liabilities of founders
+
+Required when seeking bank loans or SBA-type government loans
+
+Demonstrates founders' personal financial stability and 'skin in the game'
+
+Required for collateral assessment by lenders
+
+8. Startup Expenses and Capitalization
+
+9. Financial Plan
+
+Revenue Model: How will the company earn money? (Subscription, licensing, transaction fees, advertising)
+
+Revenue Projections: Monthly/quarterly for 3–5 years with assumptions clearly stated
+
+Profit & Loss Statement (Projected): Revenue minus costs equals net profit/loss
+
+Cash Flow Statement: When money enters and leaves the business
+
+Balance Sheet: Assets, liabilities, and equity at a point in time
+
+Break-even Analysis: At what revenue level does the business cover all costs?
+
+Key Financial Metrics: Burn rate, runway, MRR/ARR (Monthly/Annual Recurring Revenue), churn rate
+
+Funding Requirements: Total amount needed, use of proceeds, expected dilution
+
+10. Appendices
+
+Product screenshots, demos, or prototypes
+
+Market research data, survey results
+
+Letters of intent from potential customers
+
+Key contracts and partnerships
+
+Detailed resumes of founding team
+
+IP documentation (patents filed, copyrights)
+
+Technical specifications or architecture diagrams
+
+11. Refining the Plan
+
+Validate assumptions with real customer interviews (Customer Development — Steve Blank)
+
+Use Lean Startup methodology: Build → Measure → Learn cycles
+
+Seek feedback from advisors, mentors, and potential investors
+
+Update the plan regularly as market conditions and business evolve
+
+Tailor different versions: investor deck (10 slides), executive summary (2 pages), full plan (30+ pages)
+
+4.2 Examples of Successful IT Startups
+
+UNIT V — Companies
+
+This unit examines the IT/ITES industry structure, key industry bodies, recent global IT projects, and workforce diversity.
+
+5.1 IT Industry — Product-Based vs. Services-Based
+
+5.2 NASSCOM (National Association of Software and Service Companies)
+
+NASSCOM is India's apex trade association for the IT-BPM industry, founded in 1988. It plays a pivotal role in shaping policy, promoting Indian IT globally, and developing the talent ecosystem.
+
+NASSCOM's Key Functions
+
+Industry advocacy: Representing IT industry to government on tax, labor, immigration, and data protection policy
+
+Global promotion: Marketing India as a destination for IT outsourcing through international roadshows
+
+Talent development: FutureSkills Prime — upskilling 4 million IT professionals in emerging technologies
+
+Startup ecosystem: 10,000 Startups initiative, incubation, and funding facilitation
+
+Data and research: Annual IT industry reports, salary benchmarks, workforce data
+
+Ethics and compliance: Best practices for data security, privacy, and corporate governance
+
+NASSCOM Key Statistics (FY2023–24)
+
+IT-BPM industry revenue: $254 billion
+
+IT exports: $199 billion
+
+Direct employment: ~5.4 million professionals
+
+Indirect employment: ~10 million jobs
+
+India's share of global IT-BPM outsourcing: ~55%
+
+5.3 STPI (Software Technology Parks of India)
+
+STPI is an autonomous society under MeitY, set up in 1991, with a mandate to implement the STP Scheme and promote software exports from India.
+
+65+ STPs across India — major centers in Bengaluru, Hyderabad, Pune, Noida, Chennai
+
+Manages the STP Scheme: Provides infrastructure, compliance support, and statutory clearances
+
+STPI Incubation Centres: Support for IT/ITES startups with infrastructure and mentoring
+
+NEW SCHEME (2023): GENESIS (Growth of Emerging New Innovators through Startups) — supporting startups from Tier 2/3 cities
+
+IEC (Incubation and Entrepreneurship Cell): Mentorship, training, and market access programs
+
+5.4 Overview of Latest IT Projects with Global Impact
+
+5.5 Case Studies: IT Industry
+
+Product-Based: Infosys BPM
+
+Division of Infosys providing business process management and outsourcing
+
+Services: Finance & accounting, procurement, customer service, HR outsourcing
+
+Revenue: ~$2.5B (FY2023); serves 170+ clients globally
+
+Innovation: AI-powered automation using Infosys Cobalt (cloud), Nia (AI platform)
+
+Services-Based: TCS (Tata Consultancy Services)
+
+Largest Indian IT company; market cap ~$150B+
+
+Operations: 150+ countries, 600,000+ employees
+
+Key verticals: BFSI, Retail, Manufacturing, Life Sciences, Energy
+
+Notable projects: UK NHS systems, Zurich Insurance transformation, NFL digital platforms
+
+TCS BaNCS: Core banking product used by 400+ financial institutions globally — product + services hybrid
+
+5.6 Recent Technology Advancements in IT
+
+5.7 Current Affairs — IT Industry
+
+India's Digital Public Infrastructure (DPI): India Stack recognized globally — UPI, Aadhaar, DigiLocker as model for developing nations
+
+AI Regulation: EU AI Act (2024) — world's first comprehensive AI law; India working on Digital India Act
+
+Data Protection: DPDP Act 2023 (Digital Personal Data Protection Act) — India's comprehensive data privacy law
+
+IT Talent War: Global competition for AI/ML, cloud, and cybersecurity talent; significant salary premiums
+
+GCC Boom: Global Capability Centres in India growing rapidly — 1,600+ GCCs employing 1.9M workers
+
+Layoffs and Restructuring: Major tech layoffs in 2022–2024 (Microsoft, Google, Meta) due to post-pandemic correction
+
+5.8 Diversity in the Workforce
+
+Workforce diversity refers to the variety of differences between people in an organization — including but not limited to gender, race, age, religion, disability, educational background, and national origin.
+
+Types of Diversity in IT Workforce
+
+Gender Diversity: Increasing women's representation in technical and leadership roles
+
+Racial and Ethnic Diversity: Particularly important in US-based tech companies
+
+Neurodiversity: Including individuals with autism, ADHD, dyslexia in the workforce
+
+Age Diversity: Bridging gaps between Gen Z, Millennials, Gen X, and Baby Boomers in teams
+
+Disability Inclusion: Accessible workplaces and tools for differently-abled employees
+
+Cultural and National Diversity: Managing multicultural teams in global IT organizations
+
+Business Case for Diversity
+
+McKinsey Research (2023): Companies in top quartile for gender diversity are 39% more likely to outperform financially
+
+Diverse teams produce more creative solutions and are better at problem-solving
+
+Better representation of diverse customer bases in product design
+
+Reduced groupthink and improved risk management
+
+Larger talent pool — diversity widens recruitment reach
+
+NASSCOM Diversity Initiatives
+
+WEF(Women Empowerment Focus): Targeting 40% women in IT workforce by 2030
+
+Return-to-Work Programs for women who took career breaks
+
+LGBTQ+ inclusive policies advocacy
+
+Persons with Disability (PwD) hiring programs
+
+UNIT VI — Ethical and Professional Issues in Information Security
+
+This unit examines the legal framework, ethical dilemmas, and practical tools in information security, with a focus on cyber crime, cyber law in India, and dispute resolution.
+
+6.1 Law and Ethics in Information Security
+
+Information security professionals operate at the intersection of technical expertise and legal/ethical responsibility. They must understand both what they are technically capable of doing and what they are legally and ethically permitted to do.
+
+Key Legal Frameworks Governing Information Security
+
+6.2 Organizational Liability and the Need for Counsel
+
+Organizations can face significant legal liability for security failures — including failure to protect customer data, failure to implement reasonable security measures, and failure to notify affected parties after a breach.
+
+Types of Organizational Liability
+
+Negligence: Failure to implement reasonable security measures expected of a competent organization
+
+Breach of Contract: Failure to meet security commitments in service agreements (SLAs, DPAs)
+
+Regulatory Non-Compliance: Violation of DPDP, GDPR, HIPAA, PCI-DSS leading to fines
+
+Vicarious Liability: Organization liable for security breaches caused by employees acting in scope of employment
+
+Product Liability: Vendors of insecure software or hardware may face liability for harm caused
+
+Why Organizations Need Legal Counsel for InfoSec
+
+Interpreting complex, multi-jurisdictional regulatory requirements
+
+Drafting security clauses in vendor contracts and customer agreements
+
+Guiding breach response — legal privilege for incident response communications
+
+Advising on disclosure obligations — what must be disclosed, to whom, and when
+
+Representing the organization in regulatory investigations and litigation
+
+6.3 Policy Versus Law
+
+Security Policy Framework
+
+Information Security Policy: High-level document expressing management commitment and security objectives
+
+Acceptable Use Policy (AUP): Defines permitted and prohibited uses of organizational IT systems
+
+Data Classification Policy: Categories of data sensitivity and required controls
+
+Access Control Policy: Principles of least privilege, need-to-know, authentication requirements
+
+Incident Response Policy: Steps to follow when a security incident is detected
+
+Business Continuity / Disaster Recovery Policy: Ensuring critical operations continue after disruption
+
+6.4 Cyber Crime
+
+Cybercrime refers to criminal activities that are carried out using computers and the Internet. Crimes may target computer systems directly (e.g., hacking) or use computers as tools to commit traditional crimes (e.g., online fraud).
+
+Classification of Cybercrimes
+
+Common Attack Vectors
+
+Phishing/Spear Phishing: Deceptive emails/messages tricking users into revealing credentials or downloading malware
+
+Ransomware: Malware that encrypts files and demands payment (WannaCry, REvil, Conti)
+
+DDoS (Distributed Denial of Service): Overwhelming servers with traffic to cause downtime
+
+SQL Injection: Inserting malicious SQL code through input fields to manipulate databases
+
+Cross-Site Scripting (XSS): Injecting client-side scripts into web pages viewed by other users
+
+Man-in-the-Middle (MitM): Intercepting communications between two parties
+
+Social Engineering: Manipulating people psychologically to reveal confidential information
+
+Zero-Day Exploits: Attacks targeting vulnerabilities unknown to the vendor
+
+Supply Chain Attacks: Compromising software/hardware in the supply chain (SolarWinds, XZ Utils 2024)
+
+6.5 Cybercrime on the Rise — Statistics
+
+6.6 Need for Cyber Law in India
+
+Prior to the IT Act 2000, India had no legal framework specifically addressing cybercrime. The rapid digitization of commerce, governance, and communications created urgent need for comprehensive cyber legislation.
+
+Key Provisions of the IT Act, 2000 (Amended 2008)
+
+DPDP Act, 2023 — Key Provisions
+
+Data Principal: The individual whose data is collected — has rights to access, correction, erasure, grievance redressal
+
+Data Fiduciary: Organization collecting/processing data — must have lawful purpose and obtain valid consent
+
+Consent: Free, informed, specific, clear, unconditional; can be withdrawn at any time
+
+Data Localization: Certain data categories must be stored within India (specific categories to be notified)
+
+Data Protection Board: Quasi-judicial body to adjudicate complaints and impose penalties
+
+Penalties: Up to ₹250 crore for significant breaches; up to ₹10,000 for data principal violations
+
+6.7 Ethical Dilemmas in Project Management
+
+IT project managers frequently face situations where technical, business, and ethical considerations conflict.
+
+6.8 Principles of Arbitration and Alternative Dispute Resolution
+
+Alternative Dispute Resolution (ADR) provides mechanisms to resolve conflicts without full court litigation — faster, cheaper, and often more confidential.
+
+Types of ADR
+
+Arbitration in IT Contracts
+
+Most IT service and software contracts include arbitration clauses to avoid expensive litigation
+
+Arbitration and Conciliation Act, 1996 (India): Governs domestic and international arbitration
+
+International arbitration bodies: ICC, LCIA, SIAC, UNCITRAL used for cross-border IT disputes
+
+Key issues in IT arbitration: IP ownership, SLA breaches, data security incidents, non-payment
+
+WIPO Arbitration and Mediation Center: Specialized IP dispute resolution including domain names (UDRP)
+
+6.9 Hands-On Tools for Cyber Security
+
+6.10 Case Studies on Cyber Crimes
+
+Case 1: WannaCry Ransomware Attack (2017)
+
+Type: Ransomware / Cryptoworm
+
+Impact: 230,000+ computers in 150 countries; NHS UK disrupted — surgeries cancelled
+
+Vector: Exploited EternalBlue vulnerability in Windows SMB (stolen NSA exploit)
+
+Losses: Estimated $4–8 billion globally
+
+Lessons: Importance of timely patching, network segmentation, offline backups
+
+Case 2: UIDAI Aadhaar Data Breach Allegations (2018)
+
+Claim: Tribune investigation reported anonymous sellers offering unauthorized access to Aadhaar data
+
+Access Method: Alleged unauthorized software access by village-level officers
+
+Response: UIDAI denied full breach; FIR filed against journalist under IT Act
+
+Lessons: Controversy around Section 66A-style journalist prosecution; need for clearer breach disclosure norms
+
+Case 3: Cosmos Bank Cyber Heist, Pune (2018)
+
+Type: ATM system breach / malware
+
+Attack: Hackers planted malware in Cosmos Bank's ATM switch; authorized fraudulent transactions
+
+Loss: ₹94.42 crore ($13.5M) stolen through 14,849 transactions across 28 countries in 2 days
+
+Lessons: Importance of isolating banking switch systems; real-time fraud monitoring
+
+Case 4: SolarWinds Supply Chain Attack (2020)
+
+Type: Advanced Persistent Threat (APT) / Supply Chain
+
+Attack: Attackers compromised SolarWinds Orion software update — affecting 18,000+ organizations including US Treasury, DoJ
+
+Attribution: Attributed to Russian SVR intelligence agency (Cozy Bear)
+
+Lessons: Software supply chain security; code signing verification; network segmentation; zero trust architecture
+
+Case 5: Pegasus Spyware — India (2021)
+
+Type: State-sponsored surveillance spyware
+
+Attack: NSO Group's Pegasus spyware allegedly used to target Indian journalists, activists, politicians
+
+Mechanism: Zero-click iMessage exploit — no user interaction required for infection
+
+Legal Issues: Lack of clear legal framework for state surveillance; no consent-based interception disclosure law
+
+Outcome: Supreme Court of India appointed technical committee to investigate
+
+Quick Revision — Key Terms & Definitions
+
+Important Exam Questions (Unit-wise)
+
+Unit I — Ethics
+
+Define ethics. Explain the major ethical theories with examples.
+
+What is the importance of integrity in a professional setting? Describe its key components.
+
+Explain the PAPA framework. How does it apply to information technology?
+
+What are common ethical issues for IT users? How can organizations support ethical practices?
+
+Describe the 7-step ethical decision-making model with an IT example.
+
+Explain the ACM and IEEE codes of ethics for IT professionals.
+
+What are the ethical aspects of engineering practices? Discuss with case studies (Challenger, Bhopal).
+
+Discuss women empowerment in the context of the IT industry and relevant Indian laws.
+
+Unit II — Intellectual Properties
+
+What is Intellectual Property? Classify and explain each type with examples.
+
+Explain copyright — what it protects, duration, and its application to software.
+
+Describe all types of marks (brand names, logos, certification marks, service marks, etc.)
+
+What are the criteria for patentability? Explain the patent system in India.
+
+How is patent information useful in business development? Name key patent databases.
+
+Distinguish between copyright and patent. What are the social and engineering issues in IP?
+
+Explain the process of trademark registration in India.
+
+Unit III — Government Funding and Startup Schemes
+
+What is a startup? Explain the DPIIT definition of a recognized startup in India.
+
+Describe the benefits of Startup India recognition. What is the recognition process?
+
+Compare STPI and SEZ schemes. What are the key benefits of each?
+
+Explain the NASSCOM 10,000 Startups initiative and its components.
+
+What bank loan schemes are available for startups in India? What are the challenges?
+
+Explain SBIR and STTR programs. How do they differ?
+
+Unit IV — Startup in IT
+
+Write a detailed note on the components of a business plan for an IT startup.
+
+What should an executive summary of a startup business plan contain?
+
+Explain the financial plan component — what financial documents are required?
+
+How should an IT startup approach market analysis in its business plan?
+
+Give examples of successful Indian IT startups and their key innovations.
+
+Unit V — Companies
+
+Distinguish between product-based and services-based IT companies with examples.
+
+Explain the role of NASSCOM in the Indian IT industry. What are its key functions?
+
+Describe the role of STPI in promoting IT exports from India.
+
+What is diversity in the IT workforce? Discuss its importance and current state.
+
+Describe any two IT projects with global impact and their significance.
+
+Unit VI — Information Security Ethics and Law
+
+Explain the key provisions of the IT Act, 2000. What were the 2008 amendments?
+
+What is the DPDP Act 2023? Explain data principal rights and data fiduciary obligations.
+
+Classify cybercrimes. Explain any four types with examples.
+
+Distinguish between policy and law in information security. Give examples of each.
+
+What is arbitration? Explain the types of ADR and their relevance to IT disputes.
+
+Describe any two cybercrime case studies in detail.
+
+List and explain hands-on cybersecurity tools used in penetration testing and monitoring.
+
+What are ethical dilemmas in IT project management? Give examples and solutions.

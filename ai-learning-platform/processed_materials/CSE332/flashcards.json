@@ -1,0 +1,76 @@
+{
+  "flashcards": [
+    {
+      "front": "Process",
+      "back": "A program in execution, including program code, current activity, and allocated resources"
+    },
+    {
+      "front": "Thread",
+      "back": "The smallest unit of execution within a process, sharing process resources but having its own program counter and stack"
+    },
+    {
+      "front": "Context Switching",
+      "back": "The process of storing and restoring the state of a process so that execution can be resumed from the same point later"
+    },
+    {
+      "front": "Semaphore",
+      "back": "A synchronization primitive used to control access to shared resources by multiple processes"
+    },
+    {
+      "front": "Mutex",
+      "back": "A mutual exclusion object that allows only one thread to access a resource at a time"
+    },
+    {
+      "front": "Deadlock",
+      "back": "A situation where processes are blocked forever, waiting for each other to release resources"
+    },
+    {
+      "front": "Virtual Memory",
+      "back": "Memory management technique that provides an illusion of larger physical memory using disk space"
+    },
+    {
+      "front": "Page Table",
+      "back": "Data structure used by the OS to store the mapping between virtual and physical addresses"
+    },
+    {
+      "front": "Thrashing",
+      "back": "Excessive paging activity when a system spends more time paging than executing"
+    },
+    {
+      "front": "File System",
+      "back": "Method and data structure that the OS uses to control how data is stored and retrieved on disk"
+    },
+    {
+      "front": "FCFS Scheduling",
+      "back": "First-Come-First-Served - simplest scheduling algorithm where processes are executed in arrival order"
+    },
+    {
+      "front": "Round Robin Scheduling",
+      "back": "Scheduling algorithm where each process gets a fixed time quantum in circular order"
+    },
+    {
+      "front": "Priority Scheduling",
+      "back": "Scheduling algorithm where processes are executed based on their priority levels"
+    },
+    {
+      "front": "Banker's Algorithm",
+      "back": "Deadlock avoidance algorithm that tests for safe state before resource allocation"
+    },
+    {
+      "front": "TLB (Translation Lookaside Buffer)",
+      "back": "Cache that stores recent virtual to physical address translations for faster memory access"
+    },
+    {
+      "front": "PCB (Process Control Block)",
+      "back": "Data structure containing process information like state, program counter, registers, etc."
+    },
+    {
+      "front": "Process States",
+      "back": "New, Ready, Running, Waiting/Blocked, Terminated"
+    },
+    {
+      "front": "Fork System Call",
+      "back": "Creates a new process by duplicating the calling process"
+    }
+  ]
+}

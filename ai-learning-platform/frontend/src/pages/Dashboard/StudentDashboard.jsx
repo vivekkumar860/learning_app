@@ -40,6 +40,7 @@ export default function StudentDashboard() {
 
   const quickActions = [
     { icon: SparklesIcon, label: 'AI Tutor', path: '/app/learn/tutor', color: 'from-purple-500 to-pink-500' },
+    { icon: BookOpenIcon, label: 'CSE332 Ethics', path: '/app/materials/cse332', color: 'from-indigo-500 to-blue-500', isNew: true },
     { icon: BookOpenIcon, label: 'Browse Courses', path: '/app/courses', color: 'from-blue-500 to-cyan-500' },
     { icon: TrophyIcon, label: 'Achievements', path: '/app/achievements', color: 'from-yellow-500 to-orange-500' },
     { icon: ChartBarIcon, label: 'Progress', path: '/app/progress', color: 'from-green-500 to-emerald-500' }
@@ -108,13 +109,18 @@ export default function StudentDashboard() {
         {/* Quick Actions */}
         <div className="mb-8">
           <h2 className="text-xl font-semibold text-gray-900 mb-4">Quick Actions</h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
             {quickActions.map((action, idx) => (
               <Link
                 key={idx}
                 to={action.path}
-                className="card hover:shadow-xl transition-all duration-300 group"
+                className="card hover:shadow-xl transition-all duration-300 group relative"
               >
+                {action.isNew && (
+                  <span className="absolute -top-2 -right-2 bg-red-500 text-white text-xs px-2 py-1 rounded-full font-semibold animate-pulse">
+                    NEW
+                  </span>
+                )}
                 <div className={`inline-flex p-3 rounded-xl bg-gradient-to-r ${action.color} mb-3`}>
                   <action.icon className="h-6 w-6 text-white" />
                 </div>

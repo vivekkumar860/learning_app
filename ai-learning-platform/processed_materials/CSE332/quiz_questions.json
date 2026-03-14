@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "What is a process in an operating system?",
+      "options": [
+        "A program in execution",
+        "A compiled program",
+        "A source code file",
+        "A system call"
+      ],
+      "correct_answer": 0,
+      "explanation": "A process is a program in execution, including the program code, current activity, and allocated resources."
+    },
+    {
+      "question": "Which of the following is NOT a process state?",
+      "options": [
+        "Running",
+        "Ready",
+        "Waiting",
+        "Compiled"
+      ],
+      "correct_answer": 3,
+      "explanation": "Compiled is not a process state. The main process states are New, Ready, Running, Waiting, and Terminated."
+    },
+    {
+      "question": "What is the main purpose of an operating system?",
+      "options": [
+        "To manage computer hardware and software resources",
+        "To compile programs",
+        "To browse the internet",
+        "To create documents"
+      ],
+      "correct_answer": 0,
+      "explanation": "The OS manages hardware and software resources and provides common services for computer programs."
+    },
+    {
+      "question": "What is a system call?",
+      "options": [
+        "A phone call to tech support",
+        "An interface between a process and the operating system",
+        "A function call within a program",
+        "A hardware interrupt"
+      ],
+      "correct_answer": 1,
+      "explanation": "System calls provide an interface between a running process and the operating system."
+    }
+  ]
+}

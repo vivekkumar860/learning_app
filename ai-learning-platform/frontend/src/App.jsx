@@ -14,6 +14,7 @@ import FlashCards from './pages/Learn/FlashCards'
 import MaterialUpload from './pages/Upload/MaterialUpload'
 import ReviewSuggestions from './pages/Upload/ReviewSuggestions'
 import PageWrapper from './components/layout/PageWrapper'
+import CSE332Material from './pages/StudyMaterial/CSE332Material'
 
 function PrivateRoute({ children }) {
   const token = useAuthStore(s => s.accessToken)
@@ -58,6 +59,7 @@ export default function App() {
         <Route path="learn/:moduleId/flashcards" element={<FlashCards />} />
         <Route path="upload" element={<MaterialUpload />} />
         <Route path="suggestions" element={<ReviewSuggestions />} />
+        <Route path="materials/cse332" element={<CSE332Material />} />
       </Route>
     </Routes>
   )

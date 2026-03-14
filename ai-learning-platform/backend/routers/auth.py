@@ -24,17 +24,26 @@ async def register(body: UserCreate):
 
 @router.post("/login", response_model=TokenPair)
 async def login(body: dict):
-    sb = get_supabase()
-    result = sb.table("users").select("*").eq("email", body["email"]).execute()
-    if not result.data or len(result.data) == 0:
-        raise HTTPException(401, "Invalid credentials.")
-    user = result.data[0]
-    if not verify_password(body["password"], user["hashed_password"]):
-        raise HTTPException(401, "Invalid credentials.")
-    return TokenPair(
-        access_token=create_access_token(user["id"], user["role"]),
-        refresh_token=create_refresh_token(user["id"]),
-    )
+    try:
+        sb = get_supabase()
+        result = sb.table("users").select("*").eq("email", body["email"]).execute()
+        if not result.data or len(result.data) == 0:
+            raise HTTPException(401, "Invalid credentials.")
+        user = result.data[0]
+        if not verify_password(body["password"], user["hashed_password"]):
+            raise HTTPException(401, "Invalid credentials.")
+        return TokenPair(
+            access_token=create_access_token(user["id"], user["role"]),
+            refresh_token=create_refresh_token(user["id"]),
+        )
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"Login error: {e}")
+        print(f"Error type: {type(e)}")
+        import traceback
+        traceback.print_exc()
+        raise HTTPException(500, f"Internal server error: {str(e)}")
 
 
 @router.post("/refresh", response_model=TokenPair)
